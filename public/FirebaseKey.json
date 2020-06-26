@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shorttermrental-8c9e6",
+  "private_key_id": "b5bc699e09c88e86839dd4d5b073a9d22212a9e8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBzyowOW3D5iS5\n7orq6GhiI05ih73R2+M/1jtrz3Uugy1+ZKMzpM/QvQ0TsNcgRKpF8QTbKZSsPwWR\nc6fXpssif+p1TPQESyoiunD86I9i9kj671qnNiQ3nRAj2qNvKTbRugI42ydDGS9q\nqTTQjYZLMKIWPZ7U8ZIDjSsfQ19ya/RLVbzB5IsF9Yvi89Jucn1KVppwcLfYWhk6\nKYqmXm6XxyLCmbiTpKatKgtOmpkDXr1rHTBni0gGl8yof84sILj+IHz/sCecWcqv\nc62ulFgPxWmiWbYUazf92yfROJKoKJ8T5DAJDsDfITRGat+4wTHRWGAL+B0YSVWg\nhF0vg3H3AgMBAAECggEADpNgZOGszT+qiDrWD8MMadtysoGEirSy0cMKE2c2AbPn\nE/5iZI8clS8V1xYRpJRr1quNsr3dBI2oz/H9L+bHZQAILgVsXkMY5CVWO6I+rMt0\nKaS4RW/fWwXHVPfFTgx92iZwsr31cfWbvBw41wZ0KlHga5ouyKA/KJOeKDfBuEuG\nCp/VrfUJ+hKdmAHg1Pf2Q+G6rzgi8PpjQ69Qf/8/5D9e4cFmVIdy6J2RNqIQIZ2J\nQrnit1AAlad/PpVimh4AKyGvHeviNfc0JWTc9gCroSTomrYzL/Kw3zZ9K07xrr1a\niE5gDM3TwtfW0NJ2HGG61y0ktSgicVgMRF6W0DvTgQKBgQD5i8/chKqyosQjSEmW\nz7p2vYOdEhrgOAE0kYWfU1V3WQwpuYKm5+f2VxWzC6Firi/XM2GSSeBAgkCHoU1M\nN4jKyLNfqem2aqHYfcYy/dx4OBaX9u6nAZXpbwmtL0wYPq+Muq+UX9Y2NEMzPMbR\ntODQ0Iru4UjKzNMRTLNArDcAhwKBgQDG0lTe5kiENVSpack6eZJrZ3gwzUGpHRl5\nA+uLdXPs92IDp+LVh0l0H98QSJ7cJAYnZhDZLoWDdnVZEpdgCJcQWNCuKchDeXJH\nYrKiTnJl9dJL5JKEeF8CFkS5PZywYiB1fNnseur6EwQ6gsfi3IkJPY1K0dhakeMs\nXzhI/iePEQKBgQCc3ct7dpYLFxAukalYuRogvD74xMHKQspXLkcOAYePL5XawLel\njdAd5V5Jn70CWDbQk4b5O6FRS8+essHxcFN4DbPcJeY5ekxk16N4uGYX2EIzotEg\ngHmpNNijWkD+WKFn2I64uYnhpva7RbBBcO+FtCIxycJFYX4ouMtRkzA8DwKBgQCH\n57J4AzXCmanbfCI/RGbf4AR6Z3Pgo7GL1TAnTgwGCTwIf7RAfY+qPzb9LIbauA00\n1UHjEzfUmx6v2lN7I6QPWoaa5pir9tI1FbRB2hm8tIIhuoak4psfFBW6AfGfaBQD\n+2oDiiog8urLDCaSXmmV1WtFn5eioWKGLDiPPJvR4QKBgFwoTJ6iSCMgGg5vCfHl\nfAnrwkO7cP4h+WfsMGAh/cwO+cU1at+58S+KtlXYkU1IQErN8gcbVJvpgNPvhdHo\nvtB/1K376pXHQlCufbWQyvKHkTuGcb2P5IkhNxiTGsWa1a83YhzS/uOrjVKQbr9d\nRaylafY16nycPvKUGH8kyjXH\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-t5bet@shorttermrental-8c9e6.iam.gserviceaccount.com",
+  "client_id": "116920568595517636153",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-t5bet%40shorttermrental-8c9e6.iam.gserviceaccount.com"
+}
